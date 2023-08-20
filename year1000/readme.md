@@ -9,7 +9,7 @@ The prophet runs to tell his vision to his lord, and is executed for heresy.
 
 The golden age of prosperity and peace is almost over. All the future holds is strife and conflict, the infinitesimal possibility to avert this all to continue the golden age of peace, and the mad laughter of malicious gods.
 
-![[Map.png]]
+![Map.png]
 # Player Notes
 - The party is at the capital city of Vronyo. It is a national holiday, for it is the Emperor's birthday. 
 - The Emperor will throw a party in the evening that is open to the public.
