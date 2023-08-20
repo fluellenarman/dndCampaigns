@@ -9,13 +9,14 @@ The prophet runs to tell his vision to his lord, and is executed for heresy.
 
 The golden age of prosperity and peace is almost over. All the future holds is strife and conflict, the infinitesimal possibility to avert this all to continue the golden age of peace, and the mad laughter of malicious gods.
 
-![Map.png](map.png)
+![Map.png](Map.png)
 # Player Notes
 - The party is at the capital city of Vronyo. It is a national holiday, for it is the Emperor's birthday. 
 - The Emperor will throw a party in the evening that is open to the public.
 	- Anyone may personally give the emperor a gift and petition a request.
 	- The emperor will grant the wish to the person who gives the gift he likes the most.
 - Players will start off at level 4
+- No restrictions on character races or classes
 - I'm aiming for these sessions to be of intrigue and secrecy, but I will try my best to be flexible to everyone's play style and creative solutions. First time dm'ing so I apologize in advance if I get some stuff wrong.
 
 # Nations and Factions
