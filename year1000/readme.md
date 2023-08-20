@@ -24,7 +24,7 @@ The golden age of prosperity and peace is almost over. All the future holds is s
 Emperor Reman XI
 An empire of many races and many cultures, all lead by the unbroken line of the Emperor. A line that spans back a thousand years, where the first emperor was born a slave to the Elven overlords.
 While there is no state religion or endorsement or persecution of any beliefs, generations past have created in secret the Imperial Cult, where the Emperor is not man, but a divine god on the world.
-Golden temples and marble palaces dots the Vronyo Empire, a temperate breeze blows across and the fresh air fills the lungs.
+Golden temples and marble palaces dots the Vronyo Empire, a temperate breeze blows across and the fresh air fills the lungs. Life is good in the Empire, but many wonder for how much longer.
 ## Brettonia, The Knight Houses
 Monarch Yovarius Khan
 A secluded and cloistered society, the Knight Houses are extremely wary of outsiders. While technically a vassal state of the Vronyo Empire, they have not done their vassal duties for 50 years, a cause of anxiety for many. Inquiries unto why are almost impossible, for no foreigners are given entry into the court life of intrigues and politicking in the Knight Houses. 
