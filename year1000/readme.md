@@ -29,6 +29,9 @@ Golden temples and marble palaces dots the Vronyo Empire, a temperate breeze blo
 Monarch Yovarius Khan
 A secluded and cloistered society, the Knight Houses are extremely wary of outsiders. While technically a vassal state of the Vronyo Empire, they have not done their vassal duties for 50 years, a cause of anxiety for many. Inquiries unto why are almost impossible, for no foreigners are given entry into the court life of intrigues and politicking in the Knight Houses. 
 Eschewing worship of the gods and divinity, the lords of the knight houses practice a sort of ancestor worships. An obsession with honor and duty to their king and ancestors
+The Knight's armor is legendary, beyond comparison of anything the Empire could ever hope to forge. Decisive battles have been won in the Empire's favor by the sudden reinforcements of a single Knight.
+
+But it has been 50 years since a Knight last rode in the name of the Empire. A whole generation of Imperials have gone their entire lives without ever seeing a knight.
 
 ## Elfistan Dominion
 Minister Yvrainne Aelvani 
